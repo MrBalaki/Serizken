@@ -1,0 +1,7 @@
+__pycache__/
+document/
+old/
+res/
+game_data.py
+game_utils.py
+game.py
