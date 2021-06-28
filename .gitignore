@@ -5,3 +5,5 @@ res/
 game_data.py
 game_utils.py
 game.py
+draw.py
+test.svg
