@@ -4,7 +4,7 @@ from serizken_data import G_rf, G_lf, rt, lt
 
 GameEval = namedtuple('GameEval', ['score', 'path'])
 
-max_depth = 8
+max_depth = 10
 
 con = sqlite3.connect('serizken.db')
 cur = con.cursor()
